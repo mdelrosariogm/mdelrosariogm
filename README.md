@@ -1,13 +1,14 @@
 # Hi, I'm María 👋
 
 ## About me
-Sound Engineer with a background in acoustics, signal processing, and computational modeling.  
+Sound Engineer with a background in computer science, acoustics and signal processing.  
 Currently pursuing a Specialization in Data Science and Artificial Intelligence at the University of Medellín (UDEM).
 
-I’m interested in modeling real-world phenomena using computational tools, especially in acoustic and biomedical signal analysis, as well as business and process data. I enjoy applying data science, machine learning, and mathematical modeling to transform data into insights and practical solutions.
+I’m interested in modeling real-world phenomena using computational tools, especially in business and process data as well as acoustic and biomedical signal analysis. I enjoy applying data science, machine learning, and mathematical modeling to transform data into insights and practical solutions.
 
 ## What I do
-- Data analysis and statistical modeling
+- Data analysis
+- Statistical analysis.
 - Machine learning applications
 - Signal processing and computational acoustics
 - Modeling real-world phenomena with computational tools
@@ -31,4 +32,4 @@ Here you will find projects related to:
 ## Contact
 📍 Medellín, Colombia  
 📧 mrgm2711@gmail.com  
-💼 [LinkedIn](pon-aquí-tu-link)
+💼 [LinkedIn](https://www.linkedin.com/in/gonzalez-marrugo-maria/)
