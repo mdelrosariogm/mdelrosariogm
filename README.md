@@ -50,9 +50,12 @@ Here you will find projects related to:
 
 ---
 ## 🎓 Undergraduate Thesis – Research Paper
+<p align="center">
+<img src="images/paper.png" width="500">
+</p>
 
 <p>
-<strong>Paper:</strong> Actas_FIA2024_ISBN_978-956-08148-0-7_v01-1641-1653
+<strong>Paper:</strong> Segmentation of Lung Sounds for Information Extraction
 </p>
 
 <p>
@@ -62,21 +65,21 @@ It focuses on applying computational and data-driven techniques to analyze and m
 </p>
 
 <p>
-📄 <a href="./Actas_FIA2024_ISBN_978-956-08148-0-7_v01-1641-1653.pdf">Read the paper</a>
+📄 <a href="docs/Thesis_Paper.pdf">Read the paper</a>
 </p>
 
 ---
 
-## 📈 Data Science Project
-
+##🐦 Bird Song Classification
 <p>
 <strong>Description:</strong><br>
-A data science project involving data exploration, preprocessing, and machine learning modeling using Python and scientific computing libraries.
+Multiclass classification project for bird songs using spectral features extracted from labeled audio recordings. The project builds a data processing and machine learning pipeline to identify bird species based on their vocalizations.
 </p>
 
 <p>
 🔗 <a href="[LINK_TO_REPOSITORY](https://github.com/mdelrosariogm/Bird_Song_Classification)">View repository</a>
 </p>
+
 
 *(More projects coming soon 🚀)*
 
