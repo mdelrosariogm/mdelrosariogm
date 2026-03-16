@@ -99,12 +99,9 @@ Multiclass classification project for bird songs using spectral features extract
 </tr>
 </table>
 
-<p align="center">
-<i>More projects coming soon 🚀</i>
-</p>
 
 
-*(More projects coming soon 🚀)*
+***(More projects coming soon 🚀)***
 
 ---
 
