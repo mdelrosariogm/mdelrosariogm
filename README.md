@@ -65,7 +65,7 @@ It focuses on applying computational and data-driven techniques to analyze and m
 </p>
 
 <p>
-📄 <a href="docs/Thesis_Paper_.pdf">Read the paper</a>
+📄 <a href="docs/Thesis_Paper.pdf">Read the paper</a>
 </p>
 
 ---
