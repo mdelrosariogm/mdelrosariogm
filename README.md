@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="banner.png" alt="GitHub Banner" width="100%">
+  <img src="img/banner.png" alt="GitHub Banner" width="100%">
 </p>
 
 # Hi, I'm María 👋
@@ -51,7 +51,7 @@ Here you will find projects related to:
 ---
 ## 🎓 Undergraduate Thesis – Research Paper
 <p align="center">
-<img src="images/paper.png" width="500">
+<img src="img/paper.png" width="500">
 </p>
 
 <p>
@@ -65,7 +65,7 @@ It focuses on applying computational and data-driven techniques to analyze and m
 </p>
 
 <p>
-📄 <a href="docs/Thesis_Paper.pdf">Read the paper</a>
+📄 <a href="docs/Thesis_Paper_.pdf">Read the paper</a>
 </p>
 
 ---
