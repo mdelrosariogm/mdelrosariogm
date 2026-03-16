@@ -40,18 +40,29 @@ I enjoy applying **data science, machine learning, and mathematical modeling** t
 
 ---
 
-# 📊 Projects
+<h1>📊 Projects</h1>
 
+<p>
 Here you will find projects related to:
+</p>
 
-* Data analysis and machine learning
-* Signal processing and computational modeling
-* Applied data science projects
+<ul>
+<li>Data analysis and machine learning</li>
+<li>Signal processing and computational modeling</li>
+<li>Applied data science projects</li>
+</ul>
 
----
-## 🎓 Undergraduate Thesis – Research Paper
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎓 Undergraduate Thesis – Research Paper</h3>
+
 <p align="center">
-<img src="img/paper.png" width="500">
+<img src="img/paper.png" width="300">
 </p>
 
 <p>
@@ -65,19 +76,31 @@ It focuses on applying computational and data-driven techniques to analyze and m
 </p>
 
 <p>
-📄 <a href="docs/Thesis_Paper.pdf">Read the paper</a>
+📄 <a href="Thesis_Paper.pdf">Read the paper</a>
 </p>
 
----
+</td>
 
-## 🐦 Bird Song Classification
+<td width="50%" valign="top">
+
+<h3>🐦 Bird Song Classification</h3>
+
 <p>
 <strong>Description:</strong><br>
 Multiclass classification project for bird songs using spectral features extracted from labeled audio recordings. The project builds a data processing and machine learning pipeline to identify bird species based on their vocalizations.
 </p>
 
 <p>
-🔗 <a href="[LINK_TO_REPOSITORY](https://github.com/mdelrosariogm/Bird_Song_Classification)">View repository</a>
+🔗 <a href="https://github.com/mdelrosariogm/Bird_Song_Classification">View repository</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+<i>More projects coming soon 🚀</i>
 </p>
 
 
