@@ -70,7 +70,7 @@ It focuses on applying computational and data-driven techniques to analyze and m
 
 ---
 
-##🐦 Bird Song Classification
+## 🐦 Bird Song Classification
 <p>
 <strong>Description:</strong><br>
 Multiclass classification project for bird songs using spectral features extracted from labeled audio recordings. The project builds a data processing and machine learning pipeline to identify bird species based on their vocalizations.
