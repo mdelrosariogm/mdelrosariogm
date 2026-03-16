@@ -44,9 +44,39 @@ I enjoy applying **data science, machine learning, and mathematical modeling** t
 
 Here you will find projects related to:
 
-- Data analysis and machine learning  
-- Signal processing and computational modeling  
-- Applied data science projects  
+* Data analysis and machine learning
+* Signal processing and computational modeling
+* Applied data science projects
+
+---
+## 🎓 Undergraduate Thesis – Research Paper
+
+<p>
+<strong>Paper:</strong> Actas_FIA2024_ISBN_978-956-08148-0-7_v01-1641-1653
+</p>
+
+<p>
+<strong>Description:</strong><br>
+This work presents the research developed during my undergraduate thesis.  
+It focuses on applying computational and data-driven techniques to analyze and model complex signals and datasets.
+</p>
+
+<p>
+📄 <a href="./Actas_FIA2024_ISBN_978-956-08148-0-7_v01-1641-1653.pdf">Read the paper</a>
+</p>
+
+---
+
+## 📈 Data Science Project
+
+<p>
+<strong>Description:</strong><br>
+A data science project involving data exploration, preprocessing, and machine learning modeling using Python and scientific computing libraries.
+</p>
+
+<p>
+🔗 <a href="[LINK_TO_REPOSITORY](https://github.com/mdelrosariogm/Bird_Song_Classification)">View repository</a>
+</p>
 
 *(More projects coming soon 🚀)*
 
