@@ -28,9 +28,10 @@ I enjoy applying **data science, machine learning, and mathematical modeling** t
 
 **Programming**
 
-- Python  
-- SQL  
-- MATLAB  
+- Python: Intermediate
+- MATLAB: Intermediate
+- SQL: Basic
+
 
 **Data Science**
 
@@ -38,7 +39,6 @@ I enjoy applying **data science, machine learning, and mathematical modeling** t
 - Statistical Analysis  
 - Machine Learning  
 
----
 ---
 
 <h1>📊 Projects</h1>
@@ -149,4 +149,4 @@ Multiclass classification project for bird songs using spectral features extract
 mrgm2711@gmail.com  
 
 💼 **LinkedIn:**  
-[linkedin.com/in/gonzalez-marrugo-maria](https://www.linkedin.com/in/gonzalez-marrugo-maria/)
+https://www.linkedin.com/in/mdelrosariogm/
