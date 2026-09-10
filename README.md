@@ -40,6 +40,8 @@ I enjoy applying **data science, machine learning, and mathematical modeling** t
 
 ---
 
+---
+
 <h1>📊 Projects</h1>
 
 <p>
@@ -71,7 +73,7 @@ Here you will find projects related to:
 
 <p>
 <strong>Description:</strong><br>
-This work presents the research developed during my undergraduate thesis.  
+This work presents the research developed during my undergraduate thesis.
 It focuses on applying computational and data-driven techniques to analyze and model complex signals and datasets.
 </p>
 
@@ -97,8 +99,30 @@ Multiclass classification project for bird songs using spectral features extract
 </td>
 
 </tr>
-</table>
 
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🫁 PulmoIA</h3>
+
+<p>
+<strong>Description:</strong><br>
+Applied artificial intelligence project focused on the computational analysis of respiratory sounds. The project explores data processing and machine learning techniques to extract relevant information from lung sound recordings and support the analysis and classification of respiratory audio signals.
+</p>
+
+<p>
+🔗 <a href="https://github.com/mdelrosariogm/PulmoIA">View repository</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+</table>
 
 
 ***(More projects coming soon 🚀)***
