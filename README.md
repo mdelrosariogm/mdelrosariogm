@@ -115,7 +115,7 @@ Applied artificial intelligence project focused on the computational analysis of
 
 <h3>🐦 Bird Song Classification</h3>
 <p align="center">
-<img src="img/bird.jpeg" width="300">
+<img src="img/bird.jpg" width="300">
 </p>
 
 <p>
