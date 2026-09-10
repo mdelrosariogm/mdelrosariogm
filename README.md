@@ -39,7 +39,6 @@ I enjoy applying **data science, machine learning, and mathematical modeling** t
 - Machine Learning  
 
 ---
-
 ---
 
 <h1>📊 Projects</h1>
@@ -57,11 +56,11 @@ Here you will find projects related to:
 <br>
 
 <table>
+<tr>
 
 <!-- THESIS -->
 
-<tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🎓 Undergraduate Thesis – Research Paper</h3>
 
@@ -75,7 +74,7 @@ Here you will find projects related to:
 
 <p>
 <strong>Description:</strong><br>
-This work presents the research developed during my undergraduate thesis. 
+This work presents the research developed during my undergraduate thesis.
 It focuses on applying computational and data-driven techniques to analyze and model complex signals and datasets.
 </p>
 
@@ -84,12 +83,10 @@ It focuses on applying computational and data-driven techniques to analyze and m
 </p>
 
 </td>
-</tr>
 
 <!-- PULMOIA -->
 
-<tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🫁 PulmoIA</h3>
 
@@ -103,12 +100,14 @@ Applied artificial intelligence project focused on the computational analysis of
 </p>
 
 </td>
+
 </tr>
+
+<tr>
 
 <!-- BIRD SONG -->
 
-<tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 <h3>🐦 Bird Song Classification</h3>
 
@@ -122,8 +121,11 @@ Multiclass classification project for bird songs using spectral features extract
 </p>
 
 </td>
-</tr>
 
+<td width="50%" valign="top">
+</td>
+
+</tr>
 </table>
 
 
