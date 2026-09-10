@@ -85,6 +85,21 @@ It focuses on applying computational and data-driven techniques to analyze and m
 
 <td width="50%" valign="top">
 
+<h3>🫁 PulmoIA</h3>
+
+<p>
+<strong>Description:</strong><br>
+Applied artificial intelligence project focused on the computational analysis of respiratory sounds. The project explores data processing and machine learning techniques to extract relevant information from lung sound recordings and support the analysis and classification of respiratory audio signals.
+</p>
+
+<p>
+🔗 <a href="https://github.com/mdelrosariogm/PulmoIA">View repository</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3>🐦 Bird Song Classification</h3>
 
 <p>
@@ -104,20 +119,6 @@ Multiclass classification project for bird songs using spectral features extract
 
 <td width="50%" valign="top">
 
-<h3>🫁 PulmoIA</h3>
-
-<p>
-<strong>Description:</strong><br>
-Applied artificial intelligence project focused on the computational analysis of respiratory sounds. The project explores data processing and machine learning techniques to extract relevant information from lung sound recordings and support the analysis and classification of respiratory audio signals.
-</p>
-
-<p>
-🔗 <a href="https://github.com/mdelrosariogm/PulmoIA">View repository</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
 
 </td>
 
