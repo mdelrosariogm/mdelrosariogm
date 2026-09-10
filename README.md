@@ -65,7 +65,7 @@ Here you will find projects related to:
 <h3>🎓 Undergraduate Thesis – Research Paper</h3>
 
 <p align="center">
-<img src="img/paper.png" width="300">
+<img src="img/tesis.jpeg" width="300">
 </p>
 
 <p>
@@ -90,6 +90,10 @@ It focuses on applying computational and data-driven techniques to analyze and m
 
 <h3>🫁 PulmoIA</h3>
 
+<p align="center">
+<img src="img/pulmoia.jpeg" width="300">
+</p>
+
 <p>
 <strong>Description:</strong><br>
 Applied artificial intelligence project focused on the computational analysis of respiratory sounds. The project explores data processing and machine learning techniques to extract relevant information from lung sound recordings and support the analysis and classification of respiratory audio signals.
@@ -110,6 +114,9 @@ Applied artificial intelligence project focused on the computational analysis of
 <td width="50%" valign="top">
 
 <h3>🐦 Bird Song Classification</h3>
+<p align="center">
+<img src="img/bird.jpeg" width="300">
+</p>
 
 <p>
 <strong>Description:</strong><br>
